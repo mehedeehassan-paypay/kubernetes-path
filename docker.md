@@ -8,4 +8,5 @@
 ### Run kubernetes
 
 - docker desktop > kubectl (automatic installed) >
-- <img width="829" alt="image" src="https://github.com/user-attachments/assets/70551c30-9943-46fb-82d1-19f9917ea6a1">
+
+<img width="1023" alt="image" src="https://github.com/user-attachments/assets/c7cb99d6-63ca-44f0-a92f-dd80184dd3d7">
